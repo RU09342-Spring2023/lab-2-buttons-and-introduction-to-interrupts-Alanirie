@@ -76,4 +76,9 @@ Then load up Energy Trace and perform the similar capture of Power with the LED 
 
 
 # Screenshots and Answers to Questions
+![Lab 2 Part 3 Polling Function - Power](https://user-images.githubusercontent.com/113445361/215900960-0dc5c338-ebb0-4833-a8e4-7aedecca2380.jpg)
+
+
+![Lab 2 Part 3 Interrupts Function - Power](https://user-images.githubusercontent.com/113445361/215900999-aa7d7ca7-6c76-4d98-9dc4-1d8dbd8830a1.jpg)
+
 **Replace this section with your screenshots of Energy Trace and provide some reasoning as to Questions 1 and 2 in the Power consumption of the Interrupts Section.**
