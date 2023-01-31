@@ -76,9 +76,10 @@ Then load up Energy Trace and perform the similar capture of Power with the LED 
 
 
 # Screenshots and Answers to Questions
+*Polling Example*
 ![Lab 2 Part 3 Polling Function - Power](https://user-images.githubusercontent.com/113445361/215900960-0dc5c338-ebb0-4833-a8e4-7aedecca2380.jpg)
 
-
+*Interrupt Example*
 ![Lab 2 Part 3 Interrupts Function - Power](https://user-images.githubusercontent.com/113445361/215900999-aa7d7ca7-6c76-4d98-9dc4-1d8dbd8830a1.jpg)
 
 1. What is causing the bias/baseline in the polling example to be higher than the interrupt example. The polling example draws more power since it does more things and takes more time comparedto an interrupt. The Interrupt example helps greatly reduce the system's power usage.
