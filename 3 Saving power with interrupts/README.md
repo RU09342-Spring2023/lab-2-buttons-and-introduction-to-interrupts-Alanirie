@@ -81,4 +81,5 @@ Then load up Energy Trace and perform the similar capture of Power with the LED 
 
 ![Lab 2 Part 3 Interrupts Function - Power](https://user-images.githubusercontent.com/113445361/215900999-aa7d7ca7-6c76-4d98-9dc4-1d8dbd8830a1.jpg)
 
-**Replace this section with your screenshots of Energy Trace and provide some reasoning as to Questions 1 and 2 in the Power consumption of the Interrupts Section.**
+1. What is causing the bias/baseline in the polling example to be higher than the interrupt example. The polling example draws more power since it does more things and takes more time comparedto an interrupt. The Interrupt example helps greatly reduce the system's power usage.
+2. There is still power because the processor is still running, and pressing the button draws current as well.
