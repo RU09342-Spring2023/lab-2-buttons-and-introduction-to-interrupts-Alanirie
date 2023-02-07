@@ -50,7 +50,7 @@ int main(void)
 
             while (i < 20);
 
-            do                          // Armed Mode: It occurs after its been in warning for 10 seconds
+            do  // ALERT Mode: Occurs after the system has been in Warning mode for 10 seconds, or the 4.1 button has been released
             {
                 P1OUT |= BIT0;          // Red LED is on and stays solid
 
